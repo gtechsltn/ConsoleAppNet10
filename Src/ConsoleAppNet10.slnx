@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="ConsoleAppNet10/ConsoleAppNet10.csproj" />
+  <Project Path="ToolZipBuild/ToolZipBuild.csproj" Id="ef51c253-1739-4aac-b558-a5b0c5f9303a" />
 </Solution>
